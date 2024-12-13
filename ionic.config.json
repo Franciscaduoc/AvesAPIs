@@ -1,0 +1,7 @@
+{
+  "name": "avesApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
